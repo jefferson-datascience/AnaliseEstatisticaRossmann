@@ -1,6 +1,6 @@
 # 1.0 Objetivo do Projeto
 
-O objetivo deste projeto é realizar uma análise estatística de uma base de dados pública para aprimorar habilidades em análise de correlação e influência de variáveis sobre uma variável alvo. Utilizamos uma base de dados de uma competição no Kaggle, cujo objetivo era prever as vendas das próximas 6 semanas de uma rede de drogarias. Adaptamos o problema de negócio para entender quais variáveis influenciavam o aumento ou a queda nas vendas. Abaixo, você encontrará uma visão geral do problema e a solução proposta.
+O objetivo deste projeto é realizar uma análise estatística de uma base de dados pública para aprimorar habilidades em análise de correlação e influência de variáveis sobre uma variável alvo. Utilizamos uma base de dados de uma competição no Kaggle, cujo objetivo era prever as vendas das próximas 6 semanas de uma rede de drogarias. Adaptamos o problema de negócio para entender quais variáveis influenciavam o aumento ou a queda nas vendas. Abaixo, você encontrará uma visão geral do problema e a solução proposta. Para analisar os detalhes das análise e das construções acesse o notebook na seção de NotebookDesenvolvimento
 
 # 2.0 Problema de Negócio
 
@@ -41,12 +41,7 @@ Após juntar dados de cadastro das lojas, informações de vendas, promoções e
 
 # 3.0 Análise Exploratória dos Dados
 
-Durante o processo de análise exploratória, realizamos uma análise geral entre nossas variáveis independentes e a variável alvo. Isso permitiu compreender melhor nosso dataset e validar as informações disponíveis. A análise dos gráficos abaixo trouxe conclusões interessantes:
-
-![Correlacao1](Imagens/Correlacao1.png)
-![Correlacao2](Imagens/Correlacao2.png)
-![Correlacao3](Imagens/Correlacao3.png)
-![Correlacao4](Imagens/Correlacao4.png)
+Durante o processo de análise exploratória, realizamos uma análise geral entre nossas variáveis independentes e a variável alvo. Isso permitiu compreender melhor nosso dataset e validar as informações disponíveis. 
 
 **Relatório**
 
