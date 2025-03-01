@@ -104,6 +104,8 @@ A partir do modelo estatístico, obtemos as seguintes análises:
 
 # Relatório Final - Gestor
 
+Logo abaixo, temos as variáveis que mais geram impactos no faturamento nas drogarias da rede Rossmann. São elas:
+
 **Promo**
 Lojas em promoção tendem a aumentar suas vendas em US$ 559.85 diários, com variação entre US$ 556.31 e US$ 563.39.
 
